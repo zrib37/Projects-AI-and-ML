@@ -3,6 +3,7 @@
 Emotion Recognition project by Zaira Rib
 
 DESCRIPTION
+
 Future customizations, such as understanding human emotions, could lead to a range of advancements, such as determining whether a person likes a specific statement, item or product, food, or how they are feeling in a particular circumstance, and so on. 
  
 Objective:
