@@ -1,4 +1,4 @@
-# Projects-AI-and-ML
+# Emotion Recognition Project 
 
 Emotion Recognition project by Zaira Rib
 
